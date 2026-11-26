@@ -1,1 +1,1 @@
-My agent cited three sources. Two don't exist, and the third is a soup recipe.
+My agent reported all tests green; its only tool call was `ls`.
